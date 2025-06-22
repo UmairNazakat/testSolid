@@ -1,5 +1,5 @@
 {
   "buildCommand": "pnpm build",
   "outputDirectory": ".vercel/output",
-  "framework": "other"
+  "framework": "solidstart"
 }
